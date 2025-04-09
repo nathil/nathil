@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**nathil/nathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Nathielly Castro 
+## 📖 Escolaridade
+* Técnica em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Pará. 
+* Estudante Bacharel em Ciência da Computação.
 
-Here are some ideas to get you started:
+## 📊 Estatísticas 
+<div>
+<a href="https://github.com/nathil">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathil&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nathil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Linguagens e Ferramentas
+<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://cplusplus.com" target="_blank"> <img src="https://img.icons8.com/?size=512&id=40669&format=png" alt="c++" width="40" height="40"/> </a> </p>
+
