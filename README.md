@@ -12,5 +12,4 @@
 </div>
 
 ## 🔧 Linguagens e Ferramentas
-<p align="left"> <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a target="_blank"> <img src="https://img.icons8.com/?size=512&id=40669&format=png" alt="c++" width="40" height="40"/> </a> </p>
-
+<p align="left"> <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> </a> <a target="_blank"> <img src="https://avatars.githubusercontent.com/u/25699522?s=200&v=4" alt="C" width="40" height="40"/> <a target="_blank"> <img src="https://img.icons8.com/?size=512&id=40669&format=png" alt="c++" width="40" height="40"/> </a> </p>
